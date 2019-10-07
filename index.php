@@ -7,6 +7,6 @@
 	$json = json_encode($Pessoa1);
 	echo $Pessoa1;
 	echo "<br>";
-	echo $json;
+	echo $json;a
 	//echo $Pessoa2;
 ?>

@@ -33,7 +33,7 @@
 			"Idade: ".$this->idade."<br>".
 			"Nome: ".$this->nome."<br>".
 			"sobrenome: ".$this->sobrenome."<br>";
-			return $resultado; 
+			return $resultado;a 
 		}
 }
 ?>
